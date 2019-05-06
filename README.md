@@ -24,3 +24,11 @@ Below is a list of technology to use:
 - You should build the CLI so that it allows the sales staff to find the price efficiently
 - How you make the CLI user-friendly is entirely up to you
 - You can have a pre-defined array of the top 12 phones as shown in the [webpage](https://www.bell.ca/Mobility/Smartphones_and_mobile_internet_devices)
+- Make sure you have a detailed README with instructions on how to run your program
+
+## How to manage your work
+
+- Create a fork of this repo
+- Make sure the repo is set to **private** and add me to the repo `jbhandari`
+- Make sure to commit your code in logical portions
+  - ex: `Added ability to fetch price`
